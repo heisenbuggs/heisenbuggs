@@ -14,7 +14,7 @@
 </h2>
 <h4 align="center">Turning Caffeine into Code!!!</h4>
 
-<p align="center">
+<p align="left">
   <img
     src="https://komarev.com/ghpvc/?username=itzprasuk&style=plastic&color=green"
     alt="itzprasuk"
