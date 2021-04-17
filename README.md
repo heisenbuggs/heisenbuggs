@@ -21,11 +21,11 @@
   />
 
   - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
-  - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**. - &#x1f393;
-  Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**. - &#128187; I’m
-  currently learning about **Express.js and Django**. - &#127911; Loves to
-  listen **Music** and **Read Novels** during Chill Time. - &#x1f3af; Motto :
-  **"Code is like humor. When you have to explain it, it's bad!!!"**
+  - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**. 
+  - &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**. 
+  - &#128187; I’m currently learning about **Express.js and Django**. 
+  - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time. 
+  - &#x1f3af; Motto : **"Code is like humor. When you have to explain it, it's bad!!!"**
 
   <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 </p>
