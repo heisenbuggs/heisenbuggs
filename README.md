@@ -1,12 +1,13 @@
 <p align="center">
-  <a href="https://fontmeme.com/calligraphy-fonts/">
-    <img
-      src="https://fontmeme.com/permalink/210417/4a6e2773fa02ee439a2b4aea4b85e4df.png"
-      alt="calligraphy-fonts"
+  <a href="https://fontmeme.com/fonts/geraldo-island-font/"
+    ><img
+      src="https://fontmeme.com/permalink/210417/9d18e0f6a84bebd2370642933c22bdad.png"
+      alt="geraldo-island-font"
       border="0"
-    />
-  </a>
+  /></a>
 </p>
+
+<!--Name Font taken from fontmeme.com-->
 <h2 align="center">
   &#9889; Hey, I'm
   <a target="blank" href="https://itzprasuk.herokuapp.com/">Prasuk Jain.</a>
@@ -16,20 +17,19 @@
 
 <p align="left">
   <img
-    src="https://komarev.com/ghpvc/?username=itzprasuk&style=plastic&color=green"
+    src="https://komarev.com/ghpvc/?username=itzprasuk&style=plastic&color=red"
     alt="itzprasuk"
   />
 
-- &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
-- &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
-- &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**.
-- &#128187; I’m currently learning about **Express.js and Django**.
-- &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
-- &#x1f3af; Motto : **"Code is like humor. When you have to explain it, it's bad!!!"**
-
-  <!-- All skill images have been taken from https://github.com/devicons/devicon -->
+  - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
+  - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**. - &#x1f393;
+  Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**. - &#128187; I’m
+  currently learning about **Express.js and Django**. - &#127911; Loves to
+  listen **Music** and **Read Novels** during Chill Time. - &#x1f3af; Motto :
+  **"Code is like humor. When you have to explain it, it's bad!!!"**
 </p>
 
+<!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
 <p align="left">
   <img src="images/cplusplus-original.svg" height="70" width="50" />
@@ -47,7 +47,18 @@
   <img src="images/git-original.svg" height="70" width="50" />
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzprasuk&layout=compact&theme=vue&include_all_commits=true&hide_border=true" alt="itzprasuk" width="44%"/><img align="center" src="https://github-readme-stats.vercel.app/api?username=itzprasuk&show_icons=true&theme=vue&include_all_commits=true&hide_border=true&show_owner=true" alt="itzprasuk" width="53%" />
+<p>
+  <img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzprasuk&layout=compact&theme=buefy&include_all_commits=true&hide_border=true"
+    alt="itzprasuk"
+    width="45%"
+  /><img
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=itzprasuk&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true&show_owner=true"
+    alt="itzprasuk"
+    width="54%"
+  />
 </p>
 
 <p align="center">
