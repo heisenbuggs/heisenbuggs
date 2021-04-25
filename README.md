@@ -1,6 +1,6 @@
-<p align="center">
+<!-- <p align="center">
 <a href="https://fontmeme.com/fonts/geraldo-island-font/"><img src="https://fontmeme.com/permalink/210423/c464d814b1cb3b983e81369eabaf01a2.png" alt="geraldo-island-font" border="0"></a>
-</p>
+</p> -->
 
 <!--Name Font taken from fontmeme.com-->
 <h2 align="center">
@@ -27,19 +27,19 @@
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
 <p align="left">
-  <img src="images/cplusplus-original.svg" height="70" width="50" />
-  <img src="images/javascript-original.svg" height="70" width="50" />
-  <img src="images/python-original.svg" height="70" width="50"/>
-  <img src="images/html5-original.svg" height="70" width="50" />
-  <img src="images/css3-original.svg" height="70" width="50" />
-  <img src="images/bootstrap-plain.svg" height="70" width="50" />
-  <img src="images/jquery-original.svg" height="70" width="50" />
-  <img src="images/react-original.svg" height="70" width="50" />
-  <img src="images/redux-original.svg" height="70" width="50" />
-  <img src="images/nodejs-original.svg" height="70" width="50" />
-  <img src="images/express-original.svg" height="70" width="50" />
-  <img src="images/mongodb-original.svg" height="70" width="50" />
-  <img src="images/mysql-original.svg" height="70" width="50" />
+  <img src="images/cplusplus.svg" height="70" width="50" />
+  <img src="images/javascript.svg" height="70" width="50" />
+  <img src="images/python.svg" height="70" width="50"/>
+  <img src="images/html5.svg" height="70" width="50" />
+  <img src="images/css3.svg" height="70" width="50" />
+  <img src="images/bootstrap.svg" height="70" width="50" />
+  <img src="images/jquery.svg" height="70" width="50" />
+  <img src="images/react.svg" height="70" width="50" />
+  <img src="images/redux.svg" height="70" width="50" />
+  <img src="images/nodejs.svg" height="70" width="50" />
+  <img src="images/express.svg" height="70" width="50" />
+  <img src="images/mongodb.svg" height="70" width="50" />
+  <img src="images/mysql.svg" height="70" width="50" />
 </p>
 
 <p>
