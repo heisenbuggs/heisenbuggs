@@ -26,10 +26,12 @@
 
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
+<h5 align="left">Languages  </h5>
 <p align="left">
   <img src="images/cplusplus.svg" height="70" width="50" />
   <img src="images/javascript.svg" height="70" width="50" />
   <img src="images/typescript.svg" height="70" width="50" />
+  <img src="images/dart.svg" height="70">
   <img src="images/python.svg" height="70" width="50"/>
   <img src="images/html5.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
@@ -37,6 +39,7 @@
   <img src="images/jquery.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
+  <img src="images/flutter.svg" height="70" width="47">
   <img src="images/django.svg" height="70" width="50" />
   <img src="images/nodejs.svg" height="70" width="50" />
   <img src="images/express.svg" height="70" width="50" />
