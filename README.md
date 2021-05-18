@@ -26,38 +26,27 @@
 
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
-<table border="10">
-  <tr>
-    <td style="text-align:center"><b>Languages -</b></td>
-    <td style="text-align:center"><b>FrameWorks -</b></td>
-  </tr>
-  <tr style="padding:0%;">
-    <td>
-      <p align="left">
-        <img src="images/cplusplus.svg" height="70" width="50" />
-        <img src="images/javascript.svg" height="70" width="50" />
-        <img src="images/typescript.svg" height="70" width="50" />
-        <img src="images/dart.svg" height="70">
-        <img src="images/python.svg" height="70" width="50"/>
-        <img src="images/html5.svg" height="70" width="50" />
-        <img src="images/css3.svg" height="70" width="50" />
-    </td>
-    <td>
-      <p align="left">
-        <img src="images/bootstrap.svg" height="70" width="50" />
-        <img src="images/jquery.svg" height="70" width="50" />
-        <img src="images/react.svg" height="70" width="50" />
-        <img src="images/redux.svg" height="70" width="50" />
-        <img src="images/flutter.svg" height="70" width="47">
-        <img src="images/django.svg" height="70" width="50" />
-        <img src="images/nodejs.svg" height="70" width="50" />
-        <img src="images/express.svg" height="70" width="50" />
-        <img src="images/mongodb.svg" height="70" width="40" />
-        <img src="images/mysql.svg" height="70" width="50" />
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="images/cplusplus.svg" height="70" width="50" />
+  <img src="images/javascript.svg" height="70" width="50" />
+  <img src="images/typescript.svg" height="70" width="50" />
+  <img src="images/dart.svg" height="70">
+  <img src="images/python.svg" height="70" width="50"/>
+  <img src="images/html5.svg" height="70" width="50" />
+  <img src="images/css3.svg" height="70" width="50" />
+</p>
+<p align="left">
+  <img src="images/react.svg" height="70" width="50" />
+  <img src="images/redux.svg" height="70" width="50" />
+  <img src="images/flutter.svg" height="70" width="47">
+  <img src="images/nodejs.svg" height="70" width="50" />
+  <img src="images/express.svg" height="70" width="50" />
+  <img src="images/django.svg" height="70" width="50" />
+  <img src="images/bootstrap.svg" height="70" width="50"/>
+  <img src="images/jquery.svg" height="70" width="50" />
+  <img src="images/mongodb.svg" height="70" width="40" />
+  <img src="images/mysql.svg" height="70" width="50" />
+</p>
 
 <p>
   <img
