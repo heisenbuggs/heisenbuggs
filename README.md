@@ -26,7 +26,7 @@
 
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
-<table border="0">
+<table border="10">
   <tr>
     <td style="text-align:center"><b>Languages -</b></td>
     <td style="text-align:center"><b>FrameWorks -</b></td>
