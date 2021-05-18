@@ -34,8 +34,9 @@
   <img src="images/python.svg" height="70" width="50"/>
   <img src="images/html5.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
+  
 </p>
-<p align="left">
+<p align="left" style="margin-top: -35px">
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
   <img src="images/flutter.svg" height="70" width="47">
