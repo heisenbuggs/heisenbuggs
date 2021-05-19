@@ -19,7 +19,7 @@
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
 - &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**.
-- &#128187; I’m currently learning about **Express.js and Django**.
+- &#128187; I’m currently learning about **Express.js and Flutter**.
 - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"**
 </p>
