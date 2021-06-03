@@ -10,16 +10,19 @@
 </h2>
 <h4 align="center">Turning Caffeine into Code!!! &#9749;</h4>
 
-<!-- <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=itzprasuk&style=plastic&color=red"
-    alt="itzprasuk"
-  /> -->
+<center>
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com) &nbsp;
+
+</center>
 
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
 - &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**.
-- &#128187; I’m currently learning about **Express.js and Flutter**.
+- &#128187; I’m currently learning about **Express.js and Django**.
 - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"**
 </p>
@@ -35,7 +38,7 @@
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
-  <img src="images/flutter.svg" height="70" width="47">
+  <!-- <img src="images/flutter.svg" height="70" width="47"> -->
   <img src="images/nodejs.svg" height="70" width="50" />
   <img src="images/express.svg" height="70" width="50" />
   <img src="images/django.svg" height="70" width="50" />
@@ -59,7 +62,7 @@
 </p>
 
 <p align="center">
-  <a align="center" href="mailto:prasukjain4700@gmail.com" target="blank"
+  <a align="center" href="mailto:prasukjain0047@gmail.com" target="blank"
     ><img
       align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"
