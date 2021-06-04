@@ -8,7 +8,7 @@
   <a target="blank" href="https://itzprasuk.github.io/">Prasuk Jain!!</a>
   &#9889;
 </h2>
-<h4 align="center">Turning Caffeine into Code!!! &#9749;</h4>
+<!-- <h4 align="center">Turning Caffeine into Code!!! &#9749;</h4> -->
 
 <center>
 
