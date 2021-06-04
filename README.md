@@ -26,11 +26,12 @@
 - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
 
-#### Spotify Playing 🎧
+#### Spotify Playing &#119136;
 
 [<img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8)
 
 <!-- [![Spotify](https://novatorem-itzprasuk.vercel.app/api/spotify)](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
+
 
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
