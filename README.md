@@ -19,6 +19,16 @@
 
 </center>
 
+<center>
+<p align="left">
+
+  <p>  
+    
+  [<p align="right"><img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8)
+ 
+  </p>
+ </p>
+ 
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
 - &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**.
@@ -26,6 +36,8 @@
 - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
 
+</p>
+</center>
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
 <h2 align="left">Skills :</h2>
 <p align="left">
@@ -46,11 +58,6 @@
   <img src="images/mongodb.svg" height="70" width="40" />
   <img src="images/mysql.svg" height="70" width="50" />
 </p>
-
-<h5 align="center"> Spotify Playing &#119136;</h5>
-
-
-[<p align="center"><img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="center"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8)
 
 <!-- [![Spotify](https://novatorem-itzprasuk.vercel.app/api/spotify)](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
 
