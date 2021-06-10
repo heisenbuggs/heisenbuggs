@@ -20,14 +20,14 @@
 </center>
 
 <center>
-<p align="left">
+<!-- <p align="left">
 
   <p>  
     
   [<p align="right"><img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8)
  
   </p>
- </p>
+ </p> -->
  
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
