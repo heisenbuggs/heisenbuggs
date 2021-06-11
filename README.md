@@ -19,12 +19,11 @@
 
 </center>
 
-<p align="left">
-
-  <p>  
-    
+<p align="right">
+  <p align="right">  
+  <!-- Spotify Track -->
   <!-- [<p align="right"><img src="https://novatorem-itzprasuk.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="300"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="300" align="right"/>
   </p>
  </p>
  
