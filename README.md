@@ -47,7 +47,7 @@
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
-  <img src="images/next.svg" height="70" width="50" />
+  <img src="images/nextjs.svg" height="70" width="50" />
   <img src="images/nodejs.svg" height="70" width="50" />
   <img src="images/express.svg" height="70" width="50" />
   <img src="images/django.svg" height="70" width="50" />
