@@ -42,7 +42,7 @@
   <img src="images/cplusplus.svg" height="70" width="50" />
   <img src="images/javascript.svg" height="70" width="50" />
   <img src="images/typescript.svg" height="70" width="50" />
-  <img src="images/python.svg" height="70" width="50"/>
+  <!-- <img src="images/python.svg" height="70" width="50"/> -->
   <img src="images/html5.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
@@ -50,7 +50,7 @@
   <img src="images/nextjs.svg" height="70" width="50" />
   <img src="images/nodejs.svg" height="70" width="50" />
   <img src="images/express.svg" height="70" width="50" />
-  <img src="images/django.svg" height="70" width="50" />
+  <!-- <img src="images/django.svg" height="70" width="50" /> -->
   <img src="images/bootstrap.svg" height="70" width="50"/>
   <img src="images/mongodb.svg" height="70" width="40" />
   <img src="images/mysql.svg" height="70" width="50" />
