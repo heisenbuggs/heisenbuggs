@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://fontmeme.com/fonts/geraldo-island-font/"><img src="https://fontmeme.com/permalink/220113/9d3a89e462ec4add3a1f061f527020d0.png" alt="geraldo-island-font" border="0"></a>
+<a href="https://fontmeme.com/fonts/geraldo-island-font/"><img src="https://fontmeme.com/permalink/220113/b8e1c2485df6cd3d12a42df19cc8616b.png" alt="geraldo-island-font" border="0"></a>
 </p>
 
 <!--Name Font taken from fontmeme.com-->
