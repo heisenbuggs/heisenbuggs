@@ -25,7 +25,7 @@
   <!-- [<p align="right"><img src="https://novatorem-heisenbuggs.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
   <img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" href="https://github.com/SP-XD" alt="CoDiNg RocKs"  width="270" align="right"/>
   </p>
- </p>
+</p>
  
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Bhopal, Madhya Pradesh, India**.
@@ -33,7 +33,7 @@
 - &#128187; I’m currently learning about **Spring Boot**.
 - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
-
+</p>
 </p>
 </center>
 <!-- All skill images have been taken from https://github.com/devicons/devicon -->
