@@ -29,7 +29,7 @@
  
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Pune, Maharashtra, India**.
-- &#x1f393; Pursuing **B.Tech.** in Electronics from **SGSITS, Indore**.
+- &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
 - &#128187; I’m currently learning about **Spring Boot**.
 - &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
