@@ -13,7 +13,7 @@
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com) &nbsp;
 
@@ -30,8 +30,8 @@
 - &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
 - &#128205; Currently living in **Pune, Maharashtra, India**.
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
-- &#128187; I’m currently learning about **Spring Boot**.
-- &#127911; Loves to listen **Music** and **Read Novels** during Chill Time.
+- &#128187; I’m currently learning about **Spring Boot** and **NestJS**.
+- &#127911; Loves to listen **Music**, **Read Books** and **Explore Stocks** during Chill Time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
 </p>
 </p>
