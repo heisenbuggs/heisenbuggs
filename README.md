@@ -48,9 +48,9 @@
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
   <img src="images/nextjs.svg" height="70" width="50" />
-   <img src="images/spring.svg" height="70" width="50" />
+  <img src="images/nestjs.svg" height="70" width="50" />
+  <img src="images/spring.svg" height="70" width="50" />
   <img src="images/nodejs.svg" height="70" width="50" />
-  <img src="images/express.svg" height="70" width="50" />
   <img src="images/mongodb.svg" height="70" width="40" />
   <img src="images/mysql.svg" height="70" width="50" />
 </p>
@@ -75,7 +75,7 @@
   <a align="center" href="mailto:prasukjain0047@gmail.com" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg"
+      src="https://cdn.simpleicons.org/gmail/gray"
       alt="fb"
       height="40"
       width="40" /></a
@@ -86,7 +86,7 @@
     target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg"
+      src="https://cdn.simpleicons.org/facebook/gray"
       alt="fb"
       height="40"
       width="40" /></a
@@ -94,7 +94,7 @@
   <a align="center" href="https://twitter.com/thereal_prasuk" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg"
+      src="https://cdn.simpleicons.org/twitter/gray"
       alt="twitter"
       height="40"
       width="40"
@@ -102,7 +102,7 @@
   <a align="center" href="https://linkedin.com/in/prasukjain04" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
+      src="https://cdn.simpleicons.org/linkedin/gray"
       alt="linkedin"
       height="40"
       width="40"
@@ -111,7 +111,7 @@
   <a align="center" href="https://instagram.com/thereal_prasuk" target="blank"
     ><img
       align="center"
-      src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg"
+      src="https://cdn.simpleicons.org/instagram/gray"
       alt="jsdevsg"
       height="40"
       width="40"
