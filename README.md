@@ -47,7 +47,8 @@
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
-  <img src="images/nextjs.svg" height="70" width="50" />
+  <!-- <img src="images/nextjs.svg" height="70" width="50" /> -->
+  <!-- <img src="images/express.svg" height="70" width="50" /> -->
   <img src="images/nestjs.svg" height="70" width="50" />
   <img src="images/spring.svg" height="70" width="50" />
   <img src="images/nodejs.svg" height="70" width="50" />
@@ -60,12 +61,12 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenbuggs&layout=compact&theme=neon&include_all_commits=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenbuggs&layout=compact&theme=codeSTACKr&include_all_commits=true&hide_border=true"
     alt="heisenbuggs"
     width="45%"
   /><img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=heisenbuggs&show_icons=true&theme=neon&include_all_commits=true&hide_border=true&show_owner=true"
+    src="https://github-readme-stats.vercel.app/api?username=heisenbuggs&show_icons=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&show_owner=true"
     alt="heisenbuggs"
     width="54%"
   />
