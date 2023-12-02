@@ -60,12 +60,12 @@
 <p>
   <img
     align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenbuggs&layout=compact&theme=buefy&include_all_commits=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenbuggs&layout=compact&theme=neon&include_all_commits=true&hide_border=true"
     alt="heisenbuggs"
     width="45%"
   /><img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=heisenbuggs&show_icons=true&theme=buefy&include_all_commits=true&hide_border=true&show_owner=true"
+    src="https://github-readme-stats.vercel.app/api?username=heisenbuggs&show_icons=true&theme=neon&include_all_commits=true&hide_border=true&show_owner=true"
     alt="heisenbuggs"
     width="54%"
   />
@@ -75,7 +75,7 @@
   <a align="center" href="mailto:prasukjain0047@gmail.com" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/gmail/gray"
+      src="https://cdn.simpleicons.org/gmail/e3e3e0"
       alt="fb"
       height="40"
       width="40" /></a
@@ -86,7 +86,7 @@
     target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/facebook/gray"
+      src="https://cdn.simpleicons.org/facebook/e3e3e0"
       alt="fb"
       height="40"
       width="40" /></a
@@ -94,7 +94,7 @@
   <a align="center" href="https://twitter.com/thereal_prasuk" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/twitter/gray"
+      src="https://cdn.simpleicons.org/twitter/e3e3e0"
       alt="twitter"
       height="40"
       width="40"
@@ -102,7 +102,7 @@
   <a align="center" href="https://linkedin.com/in/prasukjain04" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/linkedin/gray"
+      src="https://cdn.simpleicons.org/linkedin/e3e3e0"
       alt="linkedin"
       height="40"
       width="40"
@@ -111,7 +111,7 @@
   <a align="center" href="https://instagram.com/thereal_prasuk" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/instagram/gray"
+      src="https://cdn.simpleicons.org/instagram/e3e3e0"
       alt="jsdevsg"
       height="40"
       width="40"
