@@ -56,8 +56,6 @@
   <img src="images/mysql.svg" height="70" width="50" />
 </p>
 
-<!-- [![Spotify](https://novatorem-heisenbuggs.vercel.app/api/spotify)](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
-
 <p>
   <img
     align="center"
@@ -95,7 +93,7 @@
   <a align="center" href="https://twitter.com/thereal_prasuk" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/twitter/e3e3e0"
+      src="https://cdn.simpleicons.org/x/e3e3e0"
       alt="twitter"
       height="40"
       width="40"
