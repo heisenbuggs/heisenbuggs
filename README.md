@@ -45,8 +45,6 @@
   <img src="images/typescript.svg" height="70" width="50" />
   <img src="images/html5.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
-</p>
-<p align="right">
   <img src="images/spring.svg" height="70" width="50" />
   <img src="images/express.svg" height="70" width="50" />
   <img src="images/nestjs.svg" height="70" width="50" />
@@ -55,8 +53,6 @@
   <img src="images/nodejs.svg" height="70" width="50" />
   <img src="images/mongodb.svg" height="70" width="40" />
   <img src="images/mysql.svg" height="70" width="50" />
-</p>
-<p align="left">
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
   <img src="images/nextjs.svg" height="70" width="50" />
