@@ -13,7 +13,7 @@
 <center>
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/made-with-java.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://forthebadge.com) &nbsp;
 [![forthebadge](https://forthebadge.com/images/badges/uses-brains.svg)](https://forthebadge.com) &nbsp;
 
@@ -27,7 +27,7 @@
   </p>
 </p>
  
-- &#128104;&#127995;&#8205;&#128187; **Full-Stack Web and Mobile Developer!**
+- &#128104;&#127995;&#8205;&#128187; **Full-Stack Web Developer!**
 - &#128205; Currently living in **Pune, Maharashtra, India**.
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
 - &#128187; I’m currently learning about **Spring Boot** and **NestJS**.
@@ -45,15 +45,22 @@
   <img src="images/typescript.svg" height="70" width="50" />
   <img src="images/html5.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
-  <img src="images/react.svg" height="70" width="50" />
-  <img src="images/redux.svg" height="70" width="50" />
-  <!-- <img src="images/nextjs.svg" height="70" width="50" /> -->
-  <!-- <img src="images/express.svg" height="70" width="50" /> -->
-  <img src="images/nestjs.svg" height="70" width="50" />
+</p>
+<p align="right">
   <img src="images/spring.svg" height="70" width="50" />
+  <img src="images/express.svg" height="70" width="50" />
+  <img src="images/nestjs.svg" height="70" width="50" />
+  <img src="images/apachekafka.svg" height="70" width="50" />
+  <img src="images/rabbitmq.svg" height="70" width="50" />
   <img src="images/nodejs.svg" height="70" width="50" />
   <img src="images/mongodb.svg" height="70" width="40" />
   <img src="images/mysql.svg" height="70" width="50" />
+</p>
+<p align="left">
+  <img src="images/react.svg" height="70" width="50" />
+  <img src="images/redux.svg" height="70" width="50" />
+  <img src="images/nextjs.svg" height="70" width="50" />
+  <img src="images/bootstrap.svg" height="70" width="50"/>
 </p>
 
 <p>
