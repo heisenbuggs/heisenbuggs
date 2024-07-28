@@ -59,18 +59,20 @@
   <img src="images/bootstrap.svg" height="70" width="50"/>
 </p>
 
-<p>
+<p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenbuggs&layout=compact&theme=codeSTACKr&include_all_commits=true&hide_border=true"
     alt="heisenbuggs"
-    width="45%"
-  /><img
+    width="90%"
+    align="center"
+  />
+<!--   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=heisenbuggs&show_icons=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&show_owner=true"
     alt="heisenbuggs"
     width="54%"
-  />
+  /> -->
 </p>
 
 <p align="center">
