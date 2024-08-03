@@ -66,7 +66,7 @@
     alt="heisenbuggs"
     width="90%"
     align="center"
-    height="280px"
+    height="170px"
   />
 <!--   <img
     align="center"
