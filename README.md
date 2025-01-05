@@ -46,7 +46,6 @@
   <img src="images/html5.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/spring.svg" height="70" width="50" />
-  <!-- <img src="images/express.svg" height="70" width="50" /> -->
   <img src="images/nestjs.svg" height="70" width="50" />
   <!-- <img src="images/apachekafka.svg" height="70" width="50" /> -->
   <img src="images/rabbitmq.svg" height="70" width="50" />
@@ -55,8 +54,6 @@
   <img src="images/mysql.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
   <img src="images/redux.svg" height="70" width="50" />
-  <!-- <img src="images/nextjs.svg" height="70" width="50" /> -->
-  <img src="images/bootstrap.svg" height="70" width="50"/>
 </p>
 
 <p align="center">
@@ -80,45 +77,44 @@
   <a align="center" href="mailto:prasukjain0047@gmail.com" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/gmail/e3e3e0"
-      alt="fb"
-      height="40"
-      width="40" /></a
+      src="images/gmail.png"
+      alt="mail"
+      height="46"
+      width="60"/></a
   >&nbsp;
-  <a
-    align="center"
-    href="https://www.facebook.com/thereal.prasuk/"
-    target="blank"
+  <a align="center" href="https://instagram.com/prasuksjain" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/facebook/e3e3e0"
-      alt="fb"
-      height="40"
-      width="40" /></a
-  >&nbsp;
-  <a align="center" href="https://twitter.com/thereal_prasuk" target="blank"
-    ><img
-      align="center"
-      src="https://cdn.simpleicons.org/x/e3e3e0"
-      alt="twitter"
-      height="40"
-      width="40"
+      src="images/instagram.png"
+      alt="instagram"
+      height="50"
+      width="50"
   /></a>
   <a align="center" href="https://linkedin.com/in/prasukjain04" target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/linkedin/e3e3e0"
+      src="images/linkedin.png"
       alt="linkedin"
-      height="40"
-      width="40"
+      height="50"
+      width="50"
   /></a>
-  &nbsp;
-  <a align="center" href="https://instagram.com/thereal_prasuk" target="blank"
+  <a
+    align="center"
+    href="https://www.facebook.com/prasuksjain/"
+    target="blank"
     ><img
       align="center"
-      src="https://cdn.simpleicons.org/instagram/e3e3e0"
-      alt="jsdevsg"
-      height="40"
-      width="40"
+      src="images/facebook.png"
+      alt="fb"
+      height="50"
+      width="50" /></a
+  >&nbsp;
+  <a align="center" href="https://twitter.com/prasuksjain" target="blank"
+    ><img
+      align="center"
+      src="images/twitter.png"
+      alt="x"
+      height="50"
+      width="50"
   /></a>
 </p>
