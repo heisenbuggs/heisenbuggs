@@ -79,7 +79,7 @@
       align="center"
       src="images/gmail.png"
       alt="mail"
-      height="46"
+      height="50"
       width="60"/></a
   >&nbsp;
   <a align="center" href="https://instagram.com/prasuksjain" target="blank"
@@ -114,7 +114,7 @@
       align="center"
       src="images/twitter.png"
       alt="x"
-      height="50"
-      width="50"
+      height="52"
+      width="52"
   /></a>
 </p>
