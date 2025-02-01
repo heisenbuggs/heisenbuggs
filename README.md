@@ -8,7 +8,7 @@
   <a target="blank" href="https://heisenbuggs.github.io/">Prasuk Jain!!</a>
   &#9889;
 </h2>
-<!-- <h4 align="center">Turning Caffeine into Code!!! &#9749;</h4> -->
+<h4 align="center">Turning Caffeine into Code!!! &#9749;</h4>
 
 <center>
 
@@ -22,16 +22,15 @@
 <p align="right">
   <p align="right">  
   <!-- Spotify Track -->
-  <!-- [<p align="right"><img src="https://novatorem-heisenbuggs.vercel.app/api/spotify" alt="Spotify Playing" width="350" align="right"/></p>](https://open.spotify.com/user/6omtut8gi7lg6ntyw3j2t16r8) -->
   <img src="images/dev-working.gif" href="https://github.com/SP-XD" alt="Coding Rocks!!"  width="270" align="right"/>
   </p>
 </p>
  
-- &#128104;&#127995;&#8205;&#128187; **Full-Stack Web Developer!**
+- &#128104;&#127995;&#8205;&#128187; **Software Developer by Profession!**
 - &#128205; Currently living in **Pune, Maharashtra, India**.
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
-- &#128187; I’m currently learning about **Spring Boot**.
-- &#127911; Loves to listen **Music**, **Read Books** and **Explore Stocks** during Chill Time.
+- &#128187; I’m currently learning about **System Design**.
+- &#127911; Loves to listen **Music**, **Read Books** and **Explore Stocks** during chill time.
 - &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
 </p>
 </p>
@@ -55,7 +54,7 @@
   <img src="images/redux.svg" height="70" width="50" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img
     align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=heisenbuggs&layout=compact&theme=codeSTACKr&include_all_commits=true&hide_border=true"
@@ -64,10 +63,10 @@
     align="center"
     height="170px"
   />
-<!--   <img
+  <img
     align="center"
     src="https://github-readme-stats.vercel.app/api?username=heisenbuggs&show_icons=true&theme=codeSTACKr&include_all_commits=true&hide_border=true&show_owner=true"
     alt="heisenbuggs"
     width="54%"
-  /> -->
-</p>
+  />
+</p> -->
