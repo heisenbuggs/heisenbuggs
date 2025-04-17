@@ -25,8 +25,8 @@
   </p>
 </p>
  
-- &#128104;&#127995;&#8205;&#128187; **Software Developer by Profession!**
-- &#128205; Currently living in **Pune, Maharashtra, India**.
+- &#128104;&#127995;&#8205;&#128187; **Software Developer by Profession and Passion!** working at @LinkedIn
+- &#128205; Currently living in **Bengaluru, Karnataka, India**.
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
 - &#128187; I’m currently learning about **System Design**.
 - &#127911; Loves to listen **Music**, **Read Books** and **Explore Stocks** during chill time.
@@ -40,17 +40,15 @@
   <img src="images/cplusplus.svg" height="70" width="50" />
   <img src="images/java.svg" height="70" width="50" />
   <img src="images/javascript.svg" height="70" width="50" />
-  <img src="images/typescript.svg" height="70" width="50" />
-  <img src="images/html5.svg" height="70" width="50" />
-  <img src="images/css3.svg" height="70" width="50" />
+  <img src="images/go.svg" height="70" width="50" />
   <img src="images/spring.svg" height="70" width="50" />
-  <img src="images/nestjs.svg" height="70" width="50" />
-  <img src="images/rabbitmq.svg" height="70" width="50" />
-  <img src="images/nodejs.svg" height="70" width="50" />
-  <img src="images/mongodb.svg" height="70" width="40" />
-  <img src="images/mysql.svg" height="70" width="50" />
+  <img src="images/postgresql.svg" height="70" width="53" />
+  <img src="images/redis.svg" height="70" width="60" />
+  <img src="images/apachekafka.svg" height="75" width="50" />
+  <img src="images/mongodb.svg" height="70" width="25" />
+  <!-- <img src="images/elasticsearch.svg" height="75" width="53" /> -->
+  <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
-  <img src="images/redux.svg" height="70" width="50" />
 </p>
 
 <!-- <p align="center">
