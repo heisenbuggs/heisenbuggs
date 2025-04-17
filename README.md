@@ -29,7 +29,8 @@
 - &#128205; Currently living in **Bengaluru, Karnataka, India**.
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
 - &#128187; I’m currently learning about **System Design**.
-- &#127911; Loves to listen **Music**, **Read Books** and **Explore Stocks** during chill time.
+- &#127911; Passionate about **financial markets**, **music enthusiast**, **avid reader**, and **keyboard player** with a love for learning and self-expression.
+- &#x1f3af; Motto : **"Compilers don’t lie. They just judge silently!!!"** &nbsp;
 </p>
 </p>
 </center>
