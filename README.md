@@ -30,7 +30,6 @@
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
 - &#128187; I’m currently learning about **System Design**.
 - &#127911; Loves to listen **Music**, **Read Books** and **Explore Stocks** during chill time.
-- &#x1f3af; Motto : **"Code is like humour. When you have to explain it, it's bad!!!"** &nbsp;
 </p>
 </p>
 </center>
@@ -47,6 +46,7 @@
   <img src="images/mongodb.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
+  <img src="images/redux.svg" height="70" width="48" />
   <img src="images/apachekafka.svg" height="75" width="50" />
 </p>
 
