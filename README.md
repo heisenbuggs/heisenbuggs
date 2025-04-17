@@ -25,7 +25,7 @@
   </p>
 </p>
  
-- &#128104;&#127995;&#8205;&#128187; **Software Developer by Profession and Passion!** working at @LinkedIn
+- &#128104;&#127995;&#8205;&#128187; **Software Developer by Profession and Passion!**
 - &#128205; Currently living in **Bengaluru, Karnataka, India**.
 - &#x1f393; Graduated with **B.Tech.** in Electronics from **SGSITS, Indore**.
 - &#128187; I’m currently learning about **System Design**.
@@ -44,11 +44,10 @@
   <img src="images/spring.svg" height="70" width="50" />
   <img src="images/postgresql.svg" height="70" width="53" />
   <img src="images/redis.svg" height="70" width="60" />
-  <img src="images/apachekafka.svg" height="75" width="50" />
-  <img src="images/mongodb.svg" height="70" width="25" />
-  <!-- <img src="images/elasticsearch.svg" height="75" width="53" /> -->
+  <img src="images/mongodb.svg" height="70" width="50" />
   <img src="images/css3.svg" height="70" width="50" />
   <img src="images/react.svg" height="70" width="50" />
+  <img src="images/apachekafka.svg" height="75" width="50" />
 </p>
 
 <!-- <p align="center">
